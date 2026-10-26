@@ -73,7 +73,7 @@ export const SITE = {
 
   /* ---------------- HERO ---------------- */
   hero: {
-    titleLine1: "Engineeringgggggg ",
+    titleLine1: "Engineering ",
     titleLine2: "Immersive",
     highlight: "AV & Cinema ",
     titleLine3: "Experiences",
